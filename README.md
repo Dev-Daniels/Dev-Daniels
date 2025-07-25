@@ -27,7 +27,7 @@ Tenho noções de lógica de programação, estrutura de dados e bancos de dados
 
 ## 📂 Projetos
 
-| [Manipulando Listas]() | Script simples, uma atividade de Lógica de programação | Python |
+| [Manipulando Listas](https://github.com/Dev-Daniels/manipulando-listas.git) | Script simples, uma atividade de Lógica de programação | Python |
 
 
 > ⚠️ *Mais projetos em breve!*
